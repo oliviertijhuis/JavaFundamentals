@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/course_part_01/course_part_01.iml" filepath="$PROJECT_DIR$/course_part_01/course_part_01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_part_02/course_part_02.iml" filepath="$PROJECT_DIR$/course_part_02/course_part_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_part_03/course_part_03.iml" filepath="$PROJECT_DIR$/course_part_03/course_part_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_part_04/course_part_04.iml" filepath="$PROJECT_DIR$/course_part_04/course_part_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_part_05/course_part_05.iml" filepath="$PROJECT_DIR$/course_part_05/course_part_05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_part_06/course_part_06.iml" filepath="$PROJECT_DIR$/course_part_06/course_part_06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_part_07/course_part_07.iml" filepath="$PROJECT_DIR$/course_part_07/course_part_07.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_part_08/course_part_08.iml" filepath="$PROJECT_DIR$/course_part_08/course_part_08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_part_09/course_part_09.iml" filepath="$PROJECT_DIR$/course_part_09/course_part_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_part_10/course_part_10.iml" filepath="$PROJECT_DIR$/course_part_10/course_part_10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course_part_11/course_part_11.iml" filepath="$PROJECT_DIR$/course_part_11/course_part_11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-fundamentals.iml" filepath="$PROJECT_DIR$/java-fundamentals.iml" />
+    </modules>
+  </component>
+</project>
